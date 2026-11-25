@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavankdasari.github.io/sitemap.xml
